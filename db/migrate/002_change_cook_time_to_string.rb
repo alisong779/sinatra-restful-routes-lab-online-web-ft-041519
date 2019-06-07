@@ -1,1 +1,2 @@
-class ChangeCookTimeToString
+class ChangeCookTimeToString < ActiveRecord::Migration
+  
